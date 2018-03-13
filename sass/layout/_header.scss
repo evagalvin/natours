@@ -5,6 +5,7 @@
     background-size: cover;
     background-position: top;
     clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+    cursor: context-menu;
     
     &__logo-box {
     position: absolute;
